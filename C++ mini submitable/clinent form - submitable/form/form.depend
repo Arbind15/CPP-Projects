@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1579315631 source:d:\mini_project_c++_2020\clinent form\form\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<gdiplus.h>
+
+1579399427 source:e:\clinent form\form\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<gdiplus.h>
+	<sstream>
+	<io.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<winsock2.h>
+	<thread>
+	<cstring>
+	<string>
+	<stdlib.h>
+
+1579776791 source:e:\clinent form - copy\form\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<gdiplus.h>
+	<sstream>
+	<io.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<winsock2.h>
+	<thread>
+	<cstring>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1579777178 source:e:\arbind stuff\clinent form - copy\form\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<gdiplus.h>
+	<sstream>
+	<io.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<winsock2.h>
+	<thread>
+	<cstring>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1579777178 source:e:\clinent form - submitable\form\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<gdiplus.h>
+	<sstream>
+	<io.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<winsock2.h>
+	<thread>
+	<cstring>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1579777178 source:d:\documents\cpp_practical\c++ mini submitable\clinent form - submitable\form\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<gdiplus.h>
+	<sstream>
+	<io.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<winsock2.h>
+	<thread>
+	<cstring>
+	<fstream>
+	<string>
+	<stdlib.h>
+

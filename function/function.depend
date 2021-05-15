@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1568639904 source:d:\documents\cpp_practical\function\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+

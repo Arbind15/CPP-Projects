@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1578113082 source:d:\documents\cpp_practical\labs\car_final\car_final\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<cwchar>
+	<ctime>
+	<windows.h>
+

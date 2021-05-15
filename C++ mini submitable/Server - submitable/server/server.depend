@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1579774746 source:d:\mini_project_c++_2020\server\server\main.cpp
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+	<thread>
+	<stdlib.h>
+	<cstring>
+	<unistd.h>
+	<typeinfo>
+	<string>
+	<mysql.h>
+	<sstream>
+
+1579774746 source:d:\mini_project_c++_2020\server - submitable\server\main.cpp
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+	<thread>
+	<stdlib.h>
+	<cstring>
+	<unistd.h>
+	<typeinfo>
+	<string>
+	<mysql.h>
+	<sstream>
+
+1579774746 source:d:\c++ mini submitable\server - submitable\server\main.cpp
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+	<thread>
+	<stdlib.h>
+	<cstring>
+	<unistd.h>
+	<typeinfo>
+	<string>
+	<mysql.h>
+	<sstream>
+
