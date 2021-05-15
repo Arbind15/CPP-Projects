@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1603274393 source:c:\users\hp\desktop\tree\main.cpp
+	<windows.h>
+	<objidl.h>
+	<gdiplus.h>
+	<iostream>
+	<string>
+	<stdio.h>
+
+1603275574 source:d:\online class\dsa\pratice\binarysearchtree\main.cpp
+	<windows.h>
+	<objidl.h>
+	<gdiplus.h>
+	<iostream>
+	<string>
+	<stdio.h>
+
+1604043820 source:e:\b.e\online class\dsa\pratice\binarysearchtree\main.cpp
+	<windows.h>
+	<objidl.h>
+	<gdiplus.h>
+	<iostream>
+	<string>
+	<stdio.h>
+
+1613366469 source:e:\b.e\4th sem\dsa\pratice\binarysearchtree\main.cpp
+	<windows.h>
+	<objidl.h>
+	<gdiplus.h>
+	<iostream>
+	<string>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601815369 source:d:\online class\dsa\pratice\temp\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+

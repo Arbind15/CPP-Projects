@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1598441314 source:d:\online class\dsa\pratice\stack\main.cpp
+	<iostream>
+
+1599657055 source:d:\online class\dsa\pratice\infix to postfix\main.cpp
+	<iostream>
+	<math.h>
+
+1599662326 source:d:\online class\dsa\pratice\postfix exp eval\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+paste in other linker setting:
+
+
+-static-libgcc -static-libstdc++
+-lgdiplus
